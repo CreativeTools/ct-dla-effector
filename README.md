@@ -17,7 +17,7 @@ The C4D file contains a number of objects:
   * Sphere
 * Sphere
 
-_CT DLA Effector_ is the actual lightning generator, the others can be replaced by your own objects. Note that the
+_CT DLA Effector_ is the actual DLA generator, the others can be replaced by your own objects. Note that the
 clone count in the Cloner is animated, resulting in an animated growth of the fractal shape.
 
 ##Settings
