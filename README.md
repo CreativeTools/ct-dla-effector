@@ -1,4 +1,4 @@
-Diffusion Limited Aggregation Effector for CINEMA 4D
+Fake Diffusion Limited Aggregation Effector for CINEMA 4D
 ======================
 
 >A Python effector for creating diffusion limited aggregation-like effects in CINEMA 4D.
