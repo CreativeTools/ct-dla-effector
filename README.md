@@ -3,7 +3,11 @@ Fake Diffusion Limited Aggregation Effector for CINEMA 4D
 
 >A Python effector for creating diffusion limited aggregation-like effects in CINEMA 4D.
 
-#[Download](https://github.com/CreativeTools/ct-dla-effector/raw/master/ct_dla_effector.c4d)
+#[Download](http://bit.ly/132qL8R)
+
+![DLA Render](http://www.creativetools.se/blog_static/media/7386_veckans-ct-freebie:-dla-i-cinema-4d.jpg)
+
+Note that this script only works with CINEMA 4D-versions _Studio_ and _Broadcast_
 
 ##File contents
 
